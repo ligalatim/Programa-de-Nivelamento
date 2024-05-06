@@ -2,7 +2,7 @@
 
 O Programa de Nivelamento da Liga LATIM é projetado para ajudar os alunos da UNIESP a adquirir as habilidades fundamentais necessárias para ter sucesso em seus estudos e carreiras na área de tecnologia. Os materiais disponíveis neste repositório abrangem uma variedade de tópicos, desde conceitos básicos até habilidades avançadas. 💻🔧
 
-Este repositório é dedicado a fornecer materiais de apoio para os alunos do Programa de Nivelamento da Liga LATI. Aqui você encontrará recursos, documentos e informações úteis para ajudá-lo em sua jornada de aprendizado. 📚💡
+Este repositório é dedicado a fornecer materiais de apoio para os alunos do Programa de Nivelamento da Liga LATIM. Aqui você encontrará recursos, documentos e informações úteis para ajudá-lo em sua jornada de aprendizado. 📚💡
 
 ## Sobre a Liga LATIM 🚀
 
